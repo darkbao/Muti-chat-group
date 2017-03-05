@@ -3,8 +3,7 @@
 	using epoll + threadpool
 	Event processing mode: reactor
 	Concurrency: half sync/half async
-    Modified on: 2017.1.7
- 	     Author: darkbao
+   	Author: darkbao
 */
 #include <sys/types.h>
 #include <sys/socket.h>
